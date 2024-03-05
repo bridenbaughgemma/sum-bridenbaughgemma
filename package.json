@@ -1,0 +1,27 @@
+{
+  "name": "sum-bridenbaughgemma",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-bridenbaughgemma": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bridenbaughgemma/sum-bridenbaughgemma"
+  },
+  "homepage": "https://twitter.com/tuyet_kim35318",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "bridenbaughgemma",
+  "license": "MIT"
+}
